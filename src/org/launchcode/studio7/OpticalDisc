@@ -1,0 +1,7 @@
+
+
+//interface - spinDisc(), playAudio(), storageCapacity(), readData()
+//abstract - title, discSize, discType, yearReleased
+//main
+//CD -
+//DVD - video component
